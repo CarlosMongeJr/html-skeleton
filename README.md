@@ -1,5 +1,22 @@
 # Explicación del esqueleto HTML
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html skeleton</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+<br>
+
 El DOCTYPE debe estar presente. Informa al navegador que se trata de un documento HTML.
 
 ```html
@@ -25,3 +42,14 @@ El elemento head es un contenedor de metadatos. Los metadatos suelen definir el 
 
     </head>
 ```
+
+<br>
+
+Para mostrar una página HTML correctamente, un navegador web debe conocer el juego o conjunto (set) de caracteres (char) utilizados en la página. Esto se especifica en la etiqueta < meta > la cual define el charset ("UTF-8").
+
+```html
+<meta charset="UTF-8">
+```
+
+<br>
+
