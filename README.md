@@ -53,3 +53,13 @@ Para mostrar una página HTML correctamente, un navegador web debe conocer el ju
 
 <br>
 
+El viewport es la área visible de una página web para el usuario.
+La parte width = device-width: Establece el ancho de la página que debe seguir la pantalla del dispositivo (que variará según el dispositivo). 
+La parte initial-scale = 1.0: Establece el nivel de zoom inicial cuando el navegador carga la página por primera vez.
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+<br>
+
