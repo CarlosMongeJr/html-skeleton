@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>html skeleton</title>
+    <title> html skeleton </title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -63,3 +63,8 @@ La parte initial-scale = 1.0: Establece el nivel de zoom inicial cuando el naveg
 
 <br>
 
+La etiqueta "title" es necesaria en los documentos HTML. Esta define el título del documento. El título debe ser solo de texto y se muestra en la barra de título del navegador o en la pestaña de la página.
+
+```html
+<title> html skeleton </title>
+```
