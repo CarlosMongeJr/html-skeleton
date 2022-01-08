@@ -68,3 +68,14 @@ La etiqueta "title" es necesaria en los documentos HTML. Esta define el título 
 ```html
 <title> html skeleton </title>
 ```
+
+<br>
+
+La etiqueta "link" se utiliza para definir un enlace a un documento externo.  El atributo ("rel") especifica la relación entre el documento actual y el documento vinculado.  el atributo ("type") especifica el tipo de medio del documento vinculado.  El atributo ("href") especifica la ubicación (URL) del recurso externo (generalmente un archivo de hoja de estilo o stylesheet).
+
+```html
+<link rel="stylesheet" type="text/css" href="style.css">
+```
+
+<br>
+
