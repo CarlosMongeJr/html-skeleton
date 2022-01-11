@@ -35,7 +35,7 @@ Una etiqueta de inicio html y una etiqueta de fin html definen el inicio y el fi
 
 <br>
 
-El elemento head es un contenedor de metadatos. Los metadatos suelen definir el título del documento, el juego de caracteres, los estilos, los scripts y otra metainformación.
+El elemento "head" es un contenedor de metadatos. Los metadatos suelen definir el título del documento, el juego de caracteres, los estilos, los scripts y otra metainformación.
 
 ```html
     <head>
@@ -78,4 +78,12 @@ La etiqueta "link" se utiliza para definir un enlace a un documento externo.  El
 ```
 
 <br>
+
+La etiqueta "body" contiene todo el contenido de un documento HTML, como encabezados, párrafos, imágenes, hipervínculos, tablas, listas, etc.
+
+```html
+<body>
+    
+</body>
+```
 
