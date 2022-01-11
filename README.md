@@ -92,6 +92,6 @@ La etiqueta "body" contiene todo el contenido de un documento HTML, como encabez
 La etiqueta "script" se usa para incrustar un script del lado del cliente (JavaScript). El elemento "script" contiene declaraciones de secuencias de comandos o apunta a un archivo de secuencia de comandos externo a través del atributo src. El "src" especifica la URL de un archivo de script externo.
 
 ```html
-script src="script.js"></script>
+<script src="script.js"></script>
 ```
 
